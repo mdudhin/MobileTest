@@ -2,19 +2,18 @@
 
 Library i used :
 - react-navigation
-- @react-native-community/datetimepicker
+- react-navigation/drawer
+- react-navigation/stack
 - @react-native-community/async-storage
 - react-native-elements
-- react-native-image-picker
-- react-native-anchor-carousel
-- react-native-modal
+- react-native-snap-carousel
 - react-native-vector-icons
 - axios
 - redux
 - react-redux
 - redux-thunk
+- redux-persist
 - react-native-animatable
-- react-native-webview
 
 How To Install :
 
