@@ -1,5 +1,11 @@
 # MobileTest
 
+How To Install :
+
+- yarn Install
+- react-native start
+- react-native run-android
+
 Library i used :
 - react-navigation
 - react-navigation/drawer
@@ -14,12 +20,6 @@ Library i used :
 - redux-thunk
 - redux-persist
 - react-native-animatable
-
-How To Install :
-
-- yarn Install
-- react-native start
-- react-native run-android
 
 The app look like :
 
