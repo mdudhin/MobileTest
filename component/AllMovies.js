@@ -54,7 +54,7 @@ export default function AllMovies({
 }
 
 const styles = StyleSheet.create({
-  carousel: {
+  container: {
     flex: 1,
   },
   noData: {

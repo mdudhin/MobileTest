@@ -54,7 +54,7 @@ export default function AllTvShow({
 }
 
 const styles = StyleSheet.create({
-  carousel: {
+  container: {
     flex: 1,
   },
 });
